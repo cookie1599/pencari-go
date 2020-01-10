@@ -27,8 +27,8 @@ func main() {
 	// data asli : [atrisa endya nur hidayah]
 
 	fmt.Println("filter ada huruf \"i\"\t:", dataContainsi)
-	// filter ada huruf "o" : [atrisa] [hidayah]
+	// filter ada huruf "i" : [atrisa] [hidayah]
 
 	fmt.Println("filter jumlah huruf \"7\"\t:", dataLenght7)
-	//filter jumlah huruf "6" : [hidayah]
+	//filter jumlah huruf "7" : [hidayah]
 }
