@@ -29,6 +29,6 @@ func main() {
 	fmt.Println("filter ada huruf \"i\"\t:", dataContainsi)
 	// filter ada huruf "o" : [atrisa] [hidayah]
 
-	fmt.Println("filter jumlah huruf \"6\"\t:", dataLenght7)
+	fmt.Println("filter jumlah huruf \"7\"\t:", dataLenght7)
 	//filter jumlah huruf "6" : [hidayah]
 }
